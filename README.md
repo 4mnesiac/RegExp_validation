@@ -2,7 +2,7 @@
 
 Форма авторизации с валидацией с помощью паттернов и регулярных выражений.
 
-#### [Ссылка на форму](https://4mnesiac.github.io/4mnesiacYP.github.io/)
+#### [Ссылка на форму](https://4mnesiac.github.io/RegExp_validation/)
 
 #### Versions
 
